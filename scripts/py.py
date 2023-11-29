@@ -2,7 +2,7 @@ import openai
 import json
 
 # Set up OpenAI API credentials
-openai.api_key = "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"
+openai.api_key = ""
 
 # Set up the API endpoint
 endpoint = "https://api.openai.com/v1/chat/completions"

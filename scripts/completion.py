@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = ""
 
 completion = openai.ChatCompletion.create(
   model="fine-tuned-model-name",
