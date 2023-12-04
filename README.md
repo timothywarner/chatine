@@ -11,6 +11,25 @@
 - [Mastodon](https://mastodon.social/@techtrainertim)
 - [LinkedIn](https://www.linkedin.com/in/timothywarner/)
 
+## Day 1: OpenAI and ChatGPT Essentials
+
+- [ChatGPT sign-up](https://chat.openai.com/auth/login?ref=upstract.com)
+- [OpenAI account, docs, and API tokens](https://platform.openai.com/docs/overview)
+- [OpenAI API Postman collection](https://www.postman.com/devrel/workspace/openai/collection/13183464-90abb798-cb85-43cb-ba3a-ae7941e968da)
+- [The Prompt Index](https://www.thepromptindex.com/)
+
+## Day 2: GitHub Copilot and the Copilot Ecosystem Essentials
+
+- [GitHub Copilot sign-up](https://github.com/features/copilot)
+- [Docs](https://docs.github.com/copilot)
+- [GitHub Copilot extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+- [GitHub Copilot Chat extension for VS Code](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)
+
+## Day 3: Azure OpenAI and Advanced Topics Essentials
+
+- [Azure OpenAI Service sign-up](https://learn.microsoft.com/en-us/azure/ai-services/openai/overview#how-do-i-get-access-to-azure-openai)
+- [Docs](https://learn.microsoft.com/en-us/azure/ai-services/openai/)
+
 ## OpenAI
 
 - [Home page](https://openai.com/)
@@ -28,6 +47,7 @@
 - [Docs](https://learn.microsoft.com/en-us/azure/ai-services/openai/)
 - [Azure OpenAI pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/)
 - [Training: Introduction to Azure Open AI Service](https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/)
+- Azure OpenAI and Private Link Service
 - [Code samples @ GitHub](https://github.com/Azure-Samples/openai)
 - [More code samples @ GitHub](https://github.com/Azure/openai-samples)
 - [Even more code samples @ GitHub](https://github.com/Azure/azure-openai-samples)
